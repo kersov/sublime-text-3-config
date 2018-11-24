@@ -5,6 +5,9 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
+		"EditorConfig",
+		"Material Theme",
 		"Package Control",
 		"Terminal"
 	]
